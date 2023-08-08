@@ -1,4 +1,4 @@
-nome: Eduardo Ferreira
+Nome: Eduardo Ferreira
 
 Estudante Colégio estadual Gabriel Martins
 Estudante Projetos aluraplus
